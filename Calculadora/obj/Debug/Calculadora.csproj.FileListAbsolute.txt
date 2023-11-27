@@ -1,0 +1,13 @@
+C:\Users\jjj-0\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\jjj-0\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\jjj-0\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\jjj-0\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\jjj-0\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\jjj-0\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\jjj-0\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\jjj-0\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jjj-0\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\jjj-0\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\jjj-0\source\repos\Calculadora\Calculadora\bin\Debug\pt-BR\Calculadora.resources.dll
+C:\Users\jjj-0\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.pt-BR.resources
+C:\Users\jjj-0\source\repos\Calculadora\Calculadora\obj\Debug\pt-BR\Calculadora.resources.dll
